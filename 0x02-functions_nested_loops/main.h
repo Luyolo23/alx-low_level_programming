@@ -1,2 +1,6 @@
-VimCrypt~03!¯wneØNà¹:GµÿİÜ_0C5Áğæ}
-ôØšİòs^®Š+•¼XB¶%ß3ã¡ó€F	#õ}ù’­e¡`)åÌ±Iá¹;ÀØ6—â 2¸d®æ¨Äßdû=øñ $5Ëò9B¡¡¤v›pT¸+Í–üÒÇ$ÊÏ$×Ç?ÂlR)nÊ/}²qÁ’ˆıÃï}©kı‚ƒ–/ü{q|Ê¯ÉQøTı‡?‹UOPäiÀog-øÚ†8t€k‘=É|M­û¬†ö&$•Õ»e‰»ï#àfS,‡ë˜r;:W4ä­¸®šKı=¬	‡õaÎ°v^SRH-K¶¿û›ÿÓ¡{Œ5ïÄÅ¯ğê]²ïù±hDSª]¯`æ` ‘rc¹ÿµŒ	+’}My”]¥i„ô‡ìğ!jkc4·ÜÖ…­¯›aÑÇ
+#ifndef MAIN_H
+#define MAIN_H
+int _putchar(char c);
+void print_alphabet(void);
+
+#endif
